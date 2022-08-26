@@ -1,0 +1,438 @@
+
+#wallet_connected {
+    display: none;
+}
+
+.SecondButton_secondButton__jUY6z {
+    background-color: #fff;
+    border-radius: .8rem;
+    font-size: 14px;
+    padding: .4rem 1.2rem;
+    color: #1b77f3;
+    cursor: pointer;
+    font-weight: 500
+}
+
+.Whitelist_whitelistButtonContainer__JWbdi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+}
+
+.Whitelist_whitelistButtonsDisabled__uA1nx>svg {
+    color: #bdbdbd
+}
+
+.Whitelist_ag-root-wrapper__5mqSI {
+    width: 100%
+}
+
+.Whitelist_whitelistGridItem___u2Qn {
+    display: flex;
+    flex: 1 1;
+    justify-content: space-between;
+    width: 100%
+}
+
+.Solana_infiniteScroll__buYww {
+    display: grid;
+    width: 100%;
+    justify-content: space-between;
+    padding: .5rem
+}
+
+@media(min-width:0px)and (max-width:320px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:320px)and (max-width:360px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+
+    .Solana_collectionCoverContainer__LwFGc {
+        width: 100%
+    }
+
+    .Solana_collectionCoverContainer__LwFGc,
+    .Solana_collectionInfo__fjqya,
+    .Solana_socialLinks__tIBa_ {
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    .Solana_collectionStats__YRoeM {
+        display: flex;
+        justify-content: center
+    }
+
+    .Solana_likeButton__DmbMy {
+        align-self: center
+    }
+}
+
+@media(min-width:360px)and (max-width:480px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: 1fr;
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:480px)and (max-width:576px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(1, 1fr);
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:576px)and (max-width:768px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:768px)and (max-width:880px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:880px)and (max-width:992px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:992px)and (max-width:1200px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1200px)and (max-width:1400px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1400px)and (max-width:1600px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1600px)and (max-width:1920px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:1920px) {
+    .Solana_infiniteScroll__buYww {
+        grid-template-columns: repeat(5, 1fr);
+        grid-gap: 2rem 2rem
+    }
+}
+
+.Whitelist_whitelistButtonContainer__laWfh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+}
+
+.Whitelist_whitelistButtonsDisabled__RpKHV>svg {
+    color: #bdbdbd
+}
+
+.Whitelist_ag-root-wrapper__w_APV {
+    width: 100%
+}
+
+.Whitelist_whitelistGridItem__47FEP {
+    display: flex;
+    flex: 1 1;
+    justify-content: space-between;
+    width: 100%
+}
+
+.EthCollection_infiniteScroll__3G_NT {
+    display: grid;
+    width: 100%;
+    justify-content: space-between;
+    padding: .5rem
+}
+
+@media(min-width:0px)and (max-width:320px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:320px)and (max-width:360px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+
+    .EthCollection_collectionCoverContainer__HLV_9 {
+        width: 100%
+    }
+
+    .EthCollection_collectionCoverContainer__HLV_9,
+    .EthCollection_collectionInfo__l3lgW,
+    .EthCollection_socialLinks__MCjuG {
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    .EthCollection_collectionStats__Q5v10 {
+        display: flex;
+        justify-content: center
+    }
+
+    .EthCollection_likeButton__hz1B1 {
+        align-self: center
+    }
+}
+
+@media(min-width:360px)and (max-width:480px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: 1fr;
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:480px)and (max-width:576px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(1, 1fr);
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:576px)and (max-width:768px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:768px)and (max-width:880px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:880px)and (max-width:992px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:992px)and (max-width:1200px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1200px)and (max-width:1400px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1400px)and (max-width:1600px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1600px)and (max-width:1920px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:1920px) {
+    .EthCollection_infiniteScroll__3G_NT {
+        grid-template-columns: repeat(5, 1fr);
+        grid-gap: 2rem 2rem
+    }
+}
+
+.StxCollection_infiniteScroll__610mR {
+    display: grid;
+    width: 100%;
+    justify-content: space-between;
+    padding: .5rem
+}
+
+@media(min-width:0px)and (max-width:320px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:320px)and (max-width:360px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+
+    .StxCollection_collectionCoverContainer__a7Iku {
+        width: 100%
+    }
+
+    .StxCollection_collectionCoverContainer__a7Iku,
+    .StxCollection_collectionInfo__2OMH5,
+    .StxCollection_socialLinks__xAfKO {
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    .StxCollection_collectionStats__oSJ_S {
+        display: flex;
+        justify-content: center
+    }
+
+    .StxCollection_likeButton__3L08u {
+        align-self: center
+    }
+}
+
+@media(min-width:360px)and (max-width:480px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: 1fr;
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:480px)and (max-width:576px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(1, 1fr);
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:576px)and (max-width:768px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: center;
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:768px)and (max-width:880px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:880px)and (max-width:992px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:992px)and (max-width:1200px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1200px)and (max-width:1400px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1400px)and (max-width:1600px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2rem 2rem;
+        justify-content: center
+    }
+}
+
+@media(min-width:1600px)and (max-width:1920px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2rem 2rem
+    }
+}
+
+@media(min-width:1920px) {
+    .StxCollection_infiniteScroll__610mR {
+        grid-template-columns: repeat(5, 1fr);
+        grid-gap: 2rem 2rem
+    }
+}
+
+.SolanaNFTCard_nftImageContainer__0d36A {
+    overflow: hidden;
+}
+
+.SolanaNFTCard_nftImageContainer__0d36A img {
+    -webkit-transition: -webkit-transform 0.5s;
+}
+
+.SolanaNFTCard_nftImageContainer__0d36A:hover img {
+    transition: transform 0.5s;
+    transform: scale(1.1);
+}
+
